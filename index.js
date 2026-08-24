@@ -1,4 +1,4 @@
-// pocket-phone/index.js — 1.2.2
+// pocket-phone/index.js
 // ★ Action Log stays in extension state and enters the next generation as an
 // ephemeral system prompt. Main replies return a plain JSON frame that is
 // consumed and removed—no HTML comments, hidden divs, or extra model request.
